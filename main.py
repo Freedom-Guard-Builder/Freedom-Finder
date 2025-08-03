@@ -13,7 +13,7 @@ CHANNELS = [
 
 # Subscription link patterns
 SUB_PATTERNS = [
-    r'http://[^\s]+',
+    r'https?://[^\s\'"<>]+',
 ]
 
 # Mobile config protocols

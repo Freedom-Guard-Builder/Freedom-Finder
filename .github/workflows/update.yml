@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r proxy_collector/requirements.txt
+          pip install -r requirements.txt
 
       - name: Run Proxy Collector
         run: |

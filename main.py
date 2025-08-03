@@ -92,6 +92,7 @@ def main():
 
     # Save by category
     def save_list(name, data, folder = "out"):
+        os.makedirs(folder, exist_ok=True)
         with open(f"{folder}/{name}_{timestamp}.txt", "w", encoding="utf-8") as f:
             for line in data:
                 f.write(line + "\n")

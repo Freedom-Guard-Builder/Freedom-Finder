@@ -16,7 +16,7 @@ CHANNELS = [
     "https://t.me/sinavm",
     "https://t.me/ir2ray_free",
     "https://t.me/s/amirw_shop_q",
-    "https://t.me/v2ray_configs_pools",
+     "https://t.me/v2ray_configs_pools",
     "https://t.me/Rayan_Config"
 ]
 
@@ -93,7 +93,7 @@ def main():
     # Save by category
     def save_list(name, data, folder = "out"):
         os.makedirs(folder, exist_ok=True)
-        with open(f"{folder}/{name}_{timestamp}.txt", "w", encoding="utf-8") as f:
+        with open(f"{folder}/{name}.txt", "w", encoding="utf-8") as f:
             for line in data:
                 f.write(line + "\n")
 
@@ -121,10 +121,10 @@ def main():
         save_list(proto.replace("://", ""), cfgs, "protocols")
 
     # JSON exports
-    with open(f"out/configs_{timestamp}.json", "w", encoding="utf-8") as f:
+    with open(f"out/configs.json", "w", encoding="utf-8") as f:
         json.dump(categories, f, ensure_ascii=False, indent=2)
 
-    with open(f"out/protocols_{timestamp}.json", "w", encoding="utf-8") as f:
+    with open(f"out/protocols.json", "w", encoding="utf-8") as f:
         json.dump({k.replace("://", ""): v for k, v in proto_map.items()}, f, ensure_ascii=False, indent=2)
 
     # Summary

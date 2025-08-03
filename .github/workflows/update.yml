@@ -2,7 +2,7 @@ name: Daily Proxy Collector
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # هر روز ساعت 3 UTC
+    - cron: '0 3 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,8 +12,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: false  # برای push به repo
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,7 +23,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run Proxy Collector
+      - name: Run Freedom Finder
         run: python main.py
 
       - name: Commit and Push changes
@@ -35,4 +33,3 @@ jobs:
           git add out/
           git commit -m "Update proxy files: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push
-

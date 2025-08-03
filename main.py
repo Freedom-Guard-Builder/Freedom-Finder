@@ -1,14 +1,20 @@
 import os
 import json
 import random
+from sub_scraper import fetch_sub_links_from_raw_url
 from telegram_scraper import scrape_telegram_channel
 from config_parser import extract_links
 from config_filter import clean_config_list, is_valid_config
 import re
 
 CHANNELS = [
+    "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
+    "https://t.me/FG_Link",
+    "https://t.me/sinavm",
+    "https://t.me/ir2ray_free",
     "https://t.me/s/amirw_shop_q",
-    "https://t.me/FG_Link"
+    "https://t.me/v2ray_configs_pools",
+    "https://t.me/Rayan_Config"
 ]
 
 # Subscription link patterns
@@ -75,11 +81,15 @@ def categorize_configs(configs: list[str]):
 def main():
     os.makedirs("out", exist_ok=True)
     all_posts = []
+    all_configs = []
     for url in CHANNELS:
-        print(f"[+] Scraping {url}")
-        all_posts += scrape_telegram_channel(url)
+        print(f"[+] Processing: {url}")
+        if "t.me" in url:
+            all_posts += scrape_telegram_channel(url)
+        else:
+            all_configs += fetch_sub_links_from_raw_url(url)
 
-    all_configs = extract_links(all_posts)
+    all_configs += extract_links(all_posts)
     filtered = [c for c in all_configs if is_valid_config(c) or is_subscription_link(c)]
     cleaned = clean_config_list(filtered)
 

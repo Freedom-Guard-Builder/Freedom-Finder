@@ -4,7 +4,6 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
 def fetch_sub_links_from_raw_url(raw_url):
-    print(f"[+] Fetching raw config: {raw_url}")
     try:
         res = requests.get(raw_url, headers=HEADERS)
         if res.status_code == 200:

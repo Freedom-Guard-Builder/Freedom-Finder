@@ -1,1 +1,1 @@
-trojan://3aIMXgxQ3F@x1-germany-linode-v2-jk001.devefun.org:1935?security=tls&type=tcp#@Filter_breaker%20Germany```
+trojan://aq8fDUEzAt@81.28.12.12:443?path=%2F13035%2Fhfiid&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=shabshodeporsetare.com&fp=random&type=ws&sni=mihanhost.com#Gcore%F0%9F%87%A9%F0%9F%87%AA-5itc2ld4

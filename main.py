@@ -11,13 +11,14 @@ from config_filter import clean_config_list, is_valid_config
 
 # Setup
 CHANNELS = [
+    "https://t.me/s/V2WRAY
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
-    "https://t.me/FG_Link",
-    "https://t.me/sinavm",
-    "https://t.me/ir2ray_free",
+    "https://t.me/s/FG_Link",
+    "https://t.me/s/sinavm",
+    "https://t.me/s/ir2ray_free",
     "https://t.me/s/amirw_shop_q",
-     "https://t.me/v2ray_configs_pools",
-    "https://t.me/Rayan_Config"
+    "https://t.me/s/v2ray_configs_pools",
+    "https://t.me/s/Rayan_Config"
 ]
 
 SUB_PATTERNS = [r'https?://[^\s\'"<>]+']

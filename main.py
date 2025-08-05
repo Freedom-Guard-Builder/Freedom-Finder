@@ -11,7 +11,7 @@ from config_filter import clean_config_list, is_valid_config
 
 # Setup
 CHANNELS = [
-    "https://t.me/s/V2WRAY
+    "https://t.me/s/V2WRAY",
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
     "https://t.me/s/FG_Link",
     "https://t.me/s/sinavm",

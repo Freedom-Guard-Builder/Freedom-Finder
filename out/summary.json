@@ -1,0 +1,108 @@
+{
+  "timestamp": "2025-08-06_06-05",
+  "total_all": 471,
+  "total_unique": 471,
+  "per_channel": {
+    "t_me_i10VPN": 0,
+    "t_me_v2nodes": 0,
+    "t_me_V2WRAY": 0,
+    "raw_githubusercontent_com_MahsaNetConfigTopic_config_refs_heads_main_xray_final_txt": 173,
+    "t_me_FG_Link": 51,
+    "t_me_sinavm": 137,
+    "t_me_ir2ray_free": 0,
+    "t_me_amirw_shop_q": 110,
+    "t_me_v2ray_configs_pools": 0,
+    "t_me_Rayan_Config": 0
+  },
+  "per_protocol_per_channel": {
+    "t_me_i10VPN": {
+      "vmess": 0,
+      "vless": 0,
+      "trojan": 0,
+      "ss": 0,
+      "ssr": 0
+    },
+    "t_me_v2nodes": {
+      "vmess": 0,
+      "vless": 0,
+      "trojan": 0,
+      "ss": 0,
+      "ssr": 0
+    },
+    "t_me_V2WRAY": {
+      "vmess": 0,
+      "vless": 0,
+      "trojan": 0,
+      "ss": 0,
+      "ssr": 0
+    },
+    "raw_githubusercontent_com_MahsaNetConfigTopic_config_refs_heads_main_xray_final_txt": {
+      "vmess": 5,
+      "vless": 137,
+      "trojan": 1,
+      "ss": 29,
+      "ssr": 0
+    },
+    "t_me_FG_Link": {
+      "vmess": 0,
+      "vless": 46,
+      "trojan": 0,
+      "ss": 5,
+      "ssr": 0
+    },
+    "t_me_sinavm": {
+      "vmess": 70,
+      "vless": 63,
+      "trojan": 4,
+      "ss": 0,
+      "ssr": 0
+    },
+    "t_me_ir2ray_free": {
+      "vmess": 0,
+      "vless": 0,
+      "trojan": 0,
+      "ss": 0,
+      "ssr": 0
+    },
+    "t_me_amirw_shop_q": {
+      "vmess": 1,
+      "vless": 80,
+      "trojan": 0,
+      "ss": 24,
+      "ssr": 0
+    },
+    "t_me_v2ray_configs_pools": {
+      "vmess": 0,
+      "vless": 0,
+      "trojan": 0,
+      "ss": 0,
+      "ssr": 0
+    },
+    "t_me_Rayan_Config": {
+      "vmess": 0,
+      "vless": 0,
+      "trojan": 0,
+      "ss": 0,
+      "ssr": 0
+    }
+  },
+  "protocol_totals": {
+    "vmess": 76,
+    "vless": 326,
+    "trojan": 5,
+    "ss": 58,
+    "ssr": 0
+  },
+  "categories": {
+    "PUBLIC": 0,
+    "MCI": 53,
+    "IRANCELL": 2,
+    "RIGHTEL": 0,
+    "PISHGAMAN": 0,
+    "TCI": 0,
+    "SHATEL": 0,
+    "PARSONLINE": 0,
+    "MOBILE": 410,
+    "other": 6
+  }
+}

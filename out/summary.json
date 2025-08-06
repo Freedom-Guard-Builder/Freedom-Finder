@@ -1,8 +1,9 @@
 {
-  "timestamp": "2025-08-06_06-12",
-  "total_all": 498,
-  "total_unique": 498,
+  "timestamp": "2025-08-06_06-32",
+  "total_all": 1058,
+  "total_unique": 1058,
   "per_channel": {
+    "t_me_Cook_Vpn": 560,
     "t_me_BegzarProxy": 27,
     "t_me_i10VPN": 0,
     "t_me_v2nodes": 0,
@@ -16,6 +17,13 @@
     "t_me_Rayan_Config": 0
   },
   "per_protocol_per_channel": {
+    "t_me_Cook_Vpn": {
+      "vmess": 33,
+      "vless": 138,
+      "trojan": 4,
+      "ss": 385,
+      "ssr": 0
+    },
     "t_me_BegzarProxy": {
       "vmess": 2,
       "vless": 24,
@@ -95,22 +103,22 @@
     }
   },
   "protocol_totals": {
-    "vmess": 78,
-    "vless": 350,
-    "trojan": 5,
-    "ss": 59,
+    "vmess": 111,
+    "vless": 488,
+    "trojan": 9,
+    "ss": 444,
     "ssr": 0
   },
   "categories": {
     "PUBLIC": 0,
-    "MCI": 53,
-    "IRANCELL": 2,
+    "MCI": 71,
+    "IRANCELL": 77,
     "RIGHTEL": 0,
     "PISHGAMAN": 0,
-    "TCI": 2,
+    "TCI": 7,
     "SHATEL": 0,
     "PARSONLINE": 0,
-    "MOBILE": 435,
+    "MOBILE": 897,
     "other": 6
   }
 }

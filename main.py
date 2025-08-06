@@ -169,7 +169,7 @@ def is_mobile_config(cfg: str) -> bool:
     return any(cfg.startswith(proto) for proto in MOBILE_PROTOCOLS)
 
 def is_blocked(link: str) -> bool:
-    return any(domain in link for domain in BLOCKED_DOMAINS)
+    return False
 
 def unique(seq: list[str]) -> list[str]:
     seen = set()

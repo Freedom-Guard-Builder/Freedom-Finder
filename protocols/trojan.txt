@@ -1,3 +1,5 @@
+trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id#%F0%9F%8D%8071%40oneclickvpnkeys
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id&fp=chrome#%F0%9F%8D%8068%40oneclickvpnkeys
 trojan://o233Smkn1m@16.171.12.59:80?security=none&type=grpc&serviceName=kiava&mode=multi#Kiava-T15-S7
 trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?path=%2F&security=tls&host=cdn13.cdn2cdn.com&type=ws&sni=cdn13.cdn2cdn.com#%40CaV2RAY
 trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?path=%2F6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#1

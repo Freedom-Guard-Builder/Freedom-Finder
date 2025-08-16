@@ -1,6 +1,6 @@
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id&fp=chrome#%F0%9F%8D%8068%40oneclickvpnkeys
-trojan://bbbbbbbb-cccc-4ddd-eeee-ffffffffffff@vipren.biz.id:443/?type=ws&host=vipren.biz.id&path=%2FNeoxide-X%2F194.87.62.236-443&security=tls&sni=vipren.biz.id#%F0%9F%A6%9678%40oneclickvpnkeys
-trojan://LG7HKcZFIJ@sws.ftpcomand.com:110?security=tls&sni=sws.ftpcomand.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%AD%5Bopenproxylist.com%5D%20trojan-CH
+trojan://LG7HKcZFIJ@45.155.54.117:110?security=tls&headerType=none&type=tcp&sni=sws.ftpcomand.com#Join%20Telegram%20%F0%9F%86%94%EF%B8%8Fibahad%20%F0%9F%87%A8%F0%9F%87%AD```
+trojan://04ac3ce8-6512-4170-96d3-da6bffe84c1e@www.speedtest.net:2083?security=tls&sni=FreemnM.paNOtosu.StORe&alpn=http/1.1&fp=randomized&type=ws&path=/trLb3dWHIEtHE7MPUs/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&host=freemnm.panotosu.store#@F1lterbreakerbot
 trojan://xeiZPhWKRF@join1antimelinet.melin.shop:2096?security=tls&sni=Heli.melin.shop&type=grpc#sina_tec
 trojan://wXy5OyUd2g@vpncustomize.ddns.net:2096?security=tls&sni=V2.loveislam.top&fp=chrome&type=grpc&serviceName=%40VPNCUSTOMIZE&mode=gun#%40sina_tec%20%3C%3D150GB%2BMTN
 trojan://mmfKxEeVCc@vpncustomize2.ddns.net:2096?security=tls&sni=V2.loveislam.top&fp=chrome&type=grpc&serviceName=%40VPNCUSTOMIZE&mode=gun#%40sina_tec%20%3C%3D150GB%2BMCI

@@ -1,4 +1,4 @@
-trojan://04ac3ce8-6512-4170-96d3-da6bffe84c1e@www.speedtest.net:2083?security=tls&sni=FreemnM.paNOtosu.StORe&alpn=http/1.1&fp=randomized&type=ws&path=/trLb3dWHIEtHE7MPUs/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&host=freemnm.panotosu.store#@F1lterbreakerbot
+trojan://3ce86114-67d8-43b4-b1c1-108dc7d10add@172.64.80.1:2053?security=tls&sni=mMmM123.COEnGlIShOP.STOrE&alpn=http/1.1&fp=randomized&type=ws&path=/treosKZgJjla2JswG0/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&host=mmmm123.coenglishop.store
 trojan://xeiZPhWKRF@join1antimelinet.melin.shop:2096?security=tls&sni=Heli.melin.shop&type=grpc#sina_tec
 trojan://wXy5OyUd2g@vpncustomize.ddns.net:2096?security=tls&sni=V2.loveislam.top&fp=chrome&type=grpc&serviceName=%40VPNCUSTOMIZE&mode=gun#%40sina_tec%20%3C%3D150GB%2BMTN
 trojan://mmfKxEeVCc@vpncustomize2.ddns.net:2096?security=tls&sni=V2.loveislam.top&fp=chrome&type=grpc&serviceName=%40VPNCUSTOMIZE&mode=gun#%40sina_tec%20%3C%3D150GB%2BMCI

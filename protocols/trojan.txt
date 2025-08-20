@@ -1,4 +1,5 @@
 trojan://3ce86114-67d8-43b4-b1c1-108dc7d10add@172.64.80.1:2053?security=tls&sni=mMmM123.COEnGlIShOP.STOrE&alpn=http/1.1&fp=randomized&type=ws&path=/treosKZgJjla2JswG0/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&host=mmmm123.coenglishop.store
+trojan://ttfang@166.0.244.206:2053?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%F0%9F%91%88%F0%9F%8F%BB%F0%9F%87%AE%F0%9F%87%B3%40V2raytunn%F0%9F%87%AE%F0%9F%87%B3
 trojan://xeiZPhWKRF@join1antimelinet.melin.shop:2096?security=tls&sni=Heli.melin.shop&type=grpc#sina_tec
 trojan://wXy5OyUd2g@vpncustomize.ddns.net:2096?security=tls&sni=V2.loveislam.top&fp=chrome&type=grpc&serviceName=%40VPNCUSTOMIZE&mode=gun#%40sina_tec%20%3C%3D150GB%2BMTN
 trojan://mmfKxEeVCc@vpncustomize2.ddns.net:2096?security=tls&sni=V2.loveislam.top&fp=chrome&type=grpc&serviceName=%40VPNCUSTOMIZE&mode=gun#%40sina_tec%20%3C%3D150GB%2BMCI

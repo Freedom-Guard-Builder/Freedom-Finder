@@ -1,7 +1,6 @@
-trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443/?type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&sni=aio.zipzap.biz.id#22%E2%9C%A8%40oneclickvpnkeys
-trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&headerType=none&type=tcp&sni=sto.freeguard.org#telegram%20%E2%9E%A8%20v2xro```
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org&type=tcp#@F1lterbreakerbot
-trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org&type=tcp
+trojan://ttfang@185.162.229.194:2096?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&type=ws&sni=ttfang.fange.me#telegram%20%E2%9E%A8%20v2xro```
+trojan://ttfang@192.0.63.194:2096?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&type=ws&sni=ttfang.fange.me#telegram%20%E2%9E%A8%20v2xro```
 trojan://xeiZPhWKRF@join1antimelinet.melin.shop:2096?security=tls&sni=Heli.melin.shop&type=grpc#sina_tec
 trojan://wXy5OyUd2g@vpncustomize.ddns.net:2096?security=tls&sni=V2.loveislam.top&fp=chrome&type=grpc&serviceName=%40VPNCUSTOMIZE&mode=gun#%40sina_tec%20%3C%3D150GB%2BMTN
 trojan://mmfKxEeVCc@vpncustomize2.ddns.net:2096?security=tls&sni=V2.loveislam.top&fp=chrome&type=grpc&serviceName=%40VPNCUSTOMIZE&mode=gun#%40sina_tec%20%3C%3D150GB%2BMCI

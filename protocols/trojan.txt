@@ -1,5 +1,4 @@
 trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%F0%9F%92%B2
-trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=temporaltortellini.click&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#%F0%9F%9A%80%F0%9F%9B%B0%F0%9F%9A%805
 trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443?security=tls&allowInsecure=1&type=tcp#
 trojan://af6a3685-c423-4579-bfea-784c453d5e23@t5.teslacdn2.live:443?security=tls&sni=t5.teslacdn2.live&allowInsecure=1&type=tcp#
 trojan://b4e8771997c94732acbc9ec4d19c2589@104.17.215.6:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91&allowInsecure=1#

@@ -1,14 +1,14 @@
 {
-  "timestamp": "2025-12-04_03-54",
-  "total_all": 617,
-  "total_unique": 617,
+  "timestamp": "2025-12-05_03-53",
+  "total_all": 640,
+  "total_unique": 640,
   "per_channel": {
     "t_me_Cook_Vpn": 0,
     "t_me_BegzarProxy": 30,
     "t_me_i10VPN": 0,
     "t_me_v2nodes": 86,
     "t_me_V2WRAY": 0,
-    "raw_githubusercontent_com_MahsaNetConfigTopic_config_refs_heads_main_xray_final_txt": 127,
+    "raw_githubusercontent_com_MahsaNetConfigTopic_config_refs_heads_main_xray_final_txt": 150,
     "t_me_FG_Link": 106,
     "t_me_sinavm": 137,
     "t_me_ir2ray_free": 0,
@@ -53,10 +53,10 @@
       "ssr": 0
     },
     "raw_githubusercontent_com_MahsaNetConfigTopic_config_refs_heads_main_xray_final_txt": {
-      "vmess": 11,
-      "vless": 90,
-      "trojan": 1,
-      "ss": 21,
+      "vmess": 27,
+      "vless": 81,
+      "trojan": 4,
+      "ss": 31,
       "ssr": 0
     },
     "t_me_FG_Link": {
@@ -103,22 +103,22 @@
     }
   },
   "protocol_totals": {
-    "vmess": 158,
-    "vless": 385,
-    "trojan": 10,
-    "ss": 55,
+    "vmess": 174,
+    "vless": 376,
+    "trojan": 13,
+    "ss": 65,
     "ssr": 0
   },
   "categories": {
     "PUBLIC": 0,
-    "MCI": 72,
+    "MCI": 71,
     "IRANCELL": 2,
     "RIGHTEL": 0,
     "PISHGAMAN": 0,
     "TCI": 4,
     "SHATEL": 0,
     "PARSONLINE": 0,
-    "MOBILE": 530,
-    "other": 9
+    "MOBILE": 551,
+    "other": 12
   }
 }

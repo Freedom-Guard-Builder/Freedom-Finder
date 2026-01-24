@@ -1,6 +1,7 @@
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#%40Kia_Net%20%F0%9F%A4%A5
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#%E2%98%84%EF%B8%8F%40netshekan99%20%7C%20%D9%85%D9%84%DB%8C%20%D8%B4%DA%A9%D9%86%2028%20%D8%AF%DB%8C%20%E2%98%84%EF%B8%8F`
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#⚡Telegram
+trojan://de57fef4-a939-44b3-9bce-f7e9fb12347a@Chatgpt.com:443?path=%2F130.162.193.183%3A15401&security=tls&insecure=1&host=source.zoom.us.heavenlyblue.qzz.io&type=ws&allowInsecure=1&sni=source.zoom.us.heavenlyblue.qzz.io#%E2%9B%84%20%40ProxyVPN11%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C`
+trojan://de57fef4-a939-44b3-9bce-f7e9fb12347a@cdn.halazzon.ir:443?path=%2F175.45.183.67%3A443&security=tls&insecure=1&host=source.zoom.us.heavenlyblue.qzz.io&type=ws&allowInsecure=1&sni=source.zoom.us.heavenlyblue.qzz.io#%F0%9F%90%9D%20%40ProxyVPN11%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C`
 trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443?security=tls&allowInsecure=1&type=tcp#
 trojan://af6a3685-c423-4579-bfea-784c453d5e23@t5.teslacdn2.live:443?security=tls&sni=t5.teslacdn2.live&allowInsecure=1&type=tcp#
 trojan://b4e8771997c94732acbc9ec4d19c2589@104.17.215.6:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91&allowInsecure=1#

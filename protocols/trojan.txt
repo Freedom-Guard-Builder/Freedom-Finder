@@ -1,7 +1,6 @@
-trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--%3Fed%3D2560&security=tls&alpn=h2&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D8%A7%D8%B4%20%E2%9A%A1%20%7C%20%40Vpn_Sky%20%F0%9F%9A%80
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#IR-%40V2rayAlpha-32`
-trojan://bpb-trojan@ipbaz.ping-box.com:443?type=ws&host=singbox.lu567890.us.kg&path=/tr?ed%3D2560&security=tls&sni=singbox.lu567890.us.kg&fp=chrome&allowInsecure=0#%F0%9F%9F%A3%F0%9D%97%A7%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BA:@proxynet4
 trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#@sogoandfuckyourlove
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#%40filembad`
 trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443?security=tls&allowInsecure=1&type=tcp#
 trojan://af6a3685-c423-4579-bfea-784c453d5e23@t5.teslacdn2.live:443?security=tls&sni=t5.teslacdn2.live&allowInsecure=1&type=tcp#
 trojan://b4e8771997c94732acbc9ec4d19c2589@104.17.215.6:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91&allowInsecure=1#

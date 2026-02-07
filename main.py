@@ -12,6 +12,10 @@ from config_filter import clean_config_list, is_valid_config
 CHANNELS = [
     "https://t.me/s/Cook_Vpn",
     "https://t.me/s/BegzarProxy",
+    "https://t.me/S/persianvpnhub",
+    "https://t.me/S/tik7net_vpn",
+    "https://t.me/S/ViraT_VPN",
+    "https://t.me/S/free_vpn_ch",
     "https://t.me/s/i10VPN",
     "https://t.me/s/v2nodes",
     "https://t.me/s/V2WRAY",

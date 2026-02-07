@@ -1,10 +1,14 @@
 {
-  "timestamp": "2026-02-07_04-42",
+  "timestamp": "2026-02-07_16-05",
   "total_all": 572,
   "total_unique": 572,
   "per_channel": {
     "t_me_Cook_Vpn": 0,
     "t_me_BegzarProxy": 30,
+    "t_me_S_persianvpnhub": 0,
+    "t_me_S_tik7net_vpn": 0,
+    "t_me_S_ViraT_VPN": 0,
+    "t_me_S_free_vpn_ch": 0,
     "t_me_i10VPN": 0,
     "t_me_v2nodes": 86,
     "t_me_V2WRAY": 0,
@@ -29,6 +33,34 @@
       "vless": 27,
       "trojan": 0,
       "ss": 1,
+      "ssr": 0
+    },
+    "t_me_S_persianvpnhub": {
+      "vmess": 0,
+      "vless": 0,
+      "trojan": 0,
+      "ss": 0,
+      "ssr": 0
+    },
+    "t_me_S_tik7net_vpn": {
+      "vmess": 0,
+      "vless": 0,
+      "trojan": 0,
+      "ss": 0,
+      "ssr": 0
+    },
+    "t_me_S_ViraT_VPN": {
+      "vmess": 0,
+      "vless": 0,
+      "trojan": 0,
+      "ss": 0,
+      "ssr": 0
+    },
+    "t_me_S_free_vpn_ch": {
+      "vmess": 0,
+      "vless": 0,
+      "trojan": 0,
+      "ss": 0,
       "ssr": 0
     },
     "t_me_i10VPN": {

@@ -1,6 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#`@mtproto_proserver
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20%40KIA_NET%20%DA%86%D9%86%D9%84%E2%80%8C%D8%AA%D9%84%DA%AF%D8%B1%D9%85
-vless://f7bae22e-20ab-11f1-835c-0242ac110002@89.124.89.24:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=nl1.cyphervpn.pro&pbk=YW-C1ihJAmuzFtvNLUggNlEh86DQm8jvfrJ-wMj7XQY&sid=5bfa0c&spx=%2F#Telegram:@mtproto_proserver
 vless://bd41a471-ee04-4f88-85d0-83fa3de57253@dev.loadbalance.iranstars-shop.ir:2689?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&serviceName=nama&sni=refersion.com&sid=b6c24852f86067a6#%40Daily_Configs
 vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram%20%3A%20%40V2rayEnglish
 vless://098919bb-20b7-4a08-8102-05359656c09e@alls9.f-sub.com:9190?type=tcp&path=%2F&host=testspeed-foreign.tci.ir&headerType=http&security=none#%F0%9F%93%A1Ana_Service%F0%9F%93%A1-ANA_SERVICE-Germany_Vip

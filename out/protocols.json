@@ -148,6 +148,7 @@
     "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBzaW5hX3RlYyA8PU1UTvCfpI0iLA0KICAiYWRkIjogImhvcGV2MnJheS5kZG5zLm5ldCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI4NTg0MDZiMC1kNGE4LTExZWQtYjEzOS0yMDVjNmQ1ZjVkNzgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImx1LjByZC5uZXQiLA0KICAicGF0aCI6ICIvQGhvcGV2MnJheSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJsdS4wcmQubmV0IiwNCiAgImFscG4iOiAiIg0KfQ=="
   ],
   "vless": [
+    "vless://12eac926-c4ec-4040-8fb8-f316e9fc0fd6@206.189.249.182:19001?security=reality&encryption=none&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#Telegram%3A%20%20%40Zero_Tunnel",
     "vless://bd41a471-ee04-4f88-85d0-83fa3de57253@dev.loadbalance.iranstars-shop.ir:2689?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&serviceName=nama&sni=refersion.com&sid=b6c24852f86067a6#%40Daily_Configs",
     "vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram%20%3A%20%40V2rayEnglish",
     "vless://098919bb-20b7-4a08-8102-05359656c09e@alls9.f-sub.com:9190?type=tcp&path=%2F&host=testspeed-foreign.tci.ir&headerType=http&security=none#%F0%9F%93%A1Ana_Service%F0%9F%93%A1-ANA_SERVICE-Germany_Vip",

@@ -1,8 +1,13 @@
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#%20`
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%20`
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#%20`
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%20`
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%A6%89%40FreeConfigForYou
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%F0%9F%A6%89%40FreeConfigForYou
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%E2%9C%85%20%40ProxyVpn11
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%87%A8%F0%9F%87%A6%20%20%40ProxyVpn11`
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#v2ray%20psiphon%2017
+trojan://humanity@188.114.99.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#v2ray%20psiphon%2031
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🔥@bubuv2raybot
 trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443?security=tls&allowInsecure=1&type=tcp#
 trojan://af6a3685-c423-4579-bfea-784c453d5e23@t5.teslacdn2.live:443?security=tls&sni=t5.teslacdn2.live&allowInsecure=1&type=tcp#
 trojan://b4e8771997c94732acbc9ec4d19c2589@104.17.215.6:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91&allowInsecure=1#

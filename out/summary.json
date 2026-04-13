@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12_05-29",
+  "timestamp": "2026-04-13_05-46",
   "total_all": 393,
   "total_unique": 393,
   "per_channel": {
@@ -86,9 +86,9 @@
     },
     "raw_githubusercontent_com_MahsaNetConfigTopic_config_refs_heads_main_xray_final_txt": {
       "vmess": 0,
-      "vless": 6,
-      "trojan": 5,
-      "ss": 2,
+      "vless": 2,
+      "trojan": 10,
+      "ss": 1,
       "ssr": 0
     },
     "t_me_FG_Link": {
@@ -136,9 +136,9 @@
   },
   "protocol_totals": {
     "vmess": 146,
-    "vless": 221,
-    "trojan": 14,
-    "ss": 12,
+    "vless": 217,
+    "trojan": 19,
+    "ss": 11,
     "ssr": 0
   },
   "categories": {

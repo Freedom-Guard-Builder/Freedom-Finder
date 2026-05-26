@@ -1,5 +1,6 @@
 {
   "vmess": [
+    "vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZTgwQHpWUE4yNCB8IFx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyBLUiIsICJhZGQiOiAiMTMyLjE0NS44MC4yMzAiLCAicG9ydCI6IDgwLCAiaWQiOiAiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJrcjAyLmEwYS54eXoiLCAicGF0aCI6ICIvY2N0djEzLm0zdTgifQ==`",
     "vmess://eyJhZGQiOiI4MS4xMi4zMy4xOTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZhcnplc2gzLmNvbSIsImlkIjoiOGUzYzkyYTUtNGRkMy00MmM5LWFlNzAtODc4YWE2MjIxZDAxIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA5NiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9",
     "vmess://eyJhZGQiOiI4MS4xMi4zMy4xOTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZhcnplc2gzLmNvbSIsImlkIjoiOGUzYzkyYTUtNGRkMy00MmM5LWFlNzAtODc4YWE2MjIxZDAxIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNjAwNCIsInBzIjoi8J+HqPCfh60gU3dpdHplcmxhbmQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==",
     "vmess://eyJhZGQiOiIxMDQuMTYuNjcuMzgiLCJhaWQiOjAsImhvc3QiOiJhcS5kYW96aGFuZy5saW5rIiwiaWQiOiJmOGM5MmIzYi01NDQ3LTQ0YTUtOWU1NC0yM2NkYzI2OWNiOTMiLCJuZXQiOiJ3cyIsInBhdGgiOiJmOGM5MmIzYiIsInBvcnQiOjgwLCJwcyI6Ilx1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmNltvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtQVEiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9",
@@ -150,16 +151,11 @@
   "vless": [
     "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096?encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%98%8E59Anthony",
     "vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@2.26.3.239:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=c4fb372c78b32874&sni=www.deepl.com&type=tcp#%F0%9F%8C%B6%EF%B8%8F87Anthony",
-    "vless://ae0dd58e-e222-40bf-84ae-365a97532737@malaysia.com:443?allowInsecure=1&encryption=none&host=pagescm.freen35.cc.cd&path=%2Fsetting%2Ftorrent%2Ftask&security=tls&sni=pagescm.freen35.cc.cd&type=ws#%F0%9F%8C%B6%EF%B8%8F97@SHOP_GAMING1011",
-    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.229.21:2096?encryption=none&type=ws&security=tls&path=%2F&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#%D8%AC%D9%86%DA%AF%D9%86%D8%AF%D9%87",
-    "vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@45.141.234.170:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=www.google.com&type=tcp#%F0%9F%8C%B6%EF%B8%8F94@SHOP_GAMING1011",
     "vless://c931f737-cafe-4e4f-998a-a65517941256@93.152.207.130:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&security=reality&sid=88ce6b586fcaf681&sni=cdnjs.com&type=tcp#%F0%9F%8C%B6%EF%B8%8F96@oneclickvpnkeys",
-    "vless://be0e7d89-9c35-4950-a460-d3bf5aae5f91@fl.locklance.lol:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_ftr7AiRUt0qvp9EiM4k83zzApIm430inagF_R2--CE&security=reality&sid=a74c10074f1816d5&sni=fl.locklance.lol&type=tcp#%F0%9F%8C%B6%EF%B8%8F98@SHOP_GAMING1011",
-    "vless://d511e429-e32b-46a7-ac07-a0fffa9b634c@144.31.235.62:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=0123456789abcdef&sni=www.deepl.com&type=tcp#%F0%9F%8C%B6%EF%B8%8F99@SHOP_GAMING1011",
-    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.229.21:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%40SHOP_GAMING1011`",
-    "vless://c931f737-cafe-4e4f-998a-a65517941256@185.242.247.206:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#%5B385ms+%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F+FI+%F0%9F%87%AB%F0%9F%87%AE+%40gepard_vpn%5D",
+    "vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@45.141.234.170:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=www.google.com&type=tcp#%F0%9F%8C%B6%EF%B8%8F94@SHOP_GAMING1011",
     "vless://09a601b8-ac43-4934-95e3-21e732ebfaf3@ir20.novalynxhub.online:51847?security=none&encryption=none&headerType=none&type=tcp#%40Vpn_jet7",
-    "vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?path=%2F&security=&encryption=none&type=ws#`ᴍɪɢᴀ",
+    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.229.21:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%40SHOP_GAMING1011`",
+    "vless://d511e429-e32b-46a7-ac07-a0fffa9b634c@144.31.235.62:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=0123456789abcdef&sni=www.deepl.com&type=tcp#%F0%9F%8C%B6%EF%B8%8F99@SHOP_GAMING1011",
     "vless://bd41a471-ee04-4f88-85d0-83fa3de57253@dev.loadbalance.iranstars-shop.ir:2689?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&serviceName=nama&sni=refersion.com&sid=b6c24852f86067a6#%40Daily_Configs",
     "vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram%20%3A%20%40V2rayEnglish",
     "vless://098919bb-20b7-4a08-8102-05359656c09e@alls9.f-sub.com:9190?type=tcp&path=%2F&host=testspeed-foreign.tci.ir&headerType=http&security=none#%F0%9F%93%A1Ana_Service%F0%9F%93%A1-ANA_SERVICE-Germany_Vip",
@@ -377,10 +373,11 @@
     "vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@184.174.80.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram"
   ],
   "trojan": [
-    "trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=%2Fassignment&host=www.multiplydose.com&sni=www.multiplydose.com&allowInsecure=1#%D8%AC%D9%86%DA%AF%D9%86%D8%AF%D9%87",
-    "trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%40SHOP_GAMING1011`",
-    "trojan://humanity@sourceforge.net:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#ᴍɪɢᴀ",
     "trojan://humanity@sourceforge.net:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#%40MojeVazheh%7C%40Radixvpn%7C%40Anthony",
+    "trojan://humanity@sourceforge.net:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#ᴍɪɢᴀ",
+    "trojan://humanity@104.20.42.250:443?security=tls&type=ws&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&fp=ios&allowInsecure=1#%DA%86%D9%86%D9%84%20%40ᴍɪɢᴀ",
+    "trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=1&sni=www.calmloud.com#%40Anthony",
+    "trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#1https://t.me/irconfiig",
     "trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443?security=tls&allowInsecure=1&type=tcp#",
     "trojan://af6a3685-c423-4579-bfea-784c453d5e23@t5.teslacdn2.live:443?security=tls&sni=t5.teslacdn2.live&allowInsecure=1&type=tcp#",
     "trojan://b4e8771997c94732acbc9ec4d19c2589@104.17.215.6:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91&allowInsecure=1#",
@@ -393,6 +390,8 @@
   ],
   "ss": [
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#🇳🇱",
+    "ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@38.180.2.141:5499#%40ᴛʜᴇɪɪᴠ%7C%40ᴠɪᴢʏ%7C%40ᴍɪɢᴀ",
+    "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1dmxkc05NYlE4QjRjS0RLMHNST3dq@142.93.183.235:20683#🚀@VPNine1",
     "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#Begzar",
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a1.samanehha.co:443#@FG_Link",
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#@FG_Link",

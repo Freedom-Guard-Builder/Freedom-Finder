@@ -139,7 +139,7 @@ def main():
             "count": len(
                 mobile_configs
             ),
-            "configs": mobile_configs
+            "MOBILE": mobile_configs
         }
     )
 

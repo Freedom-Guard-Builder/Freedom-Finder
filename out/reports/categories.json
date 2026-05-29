@@ -3,12 +3,5 @@
   "irancell": [],
   "rightel": [],
   "public": [],
-  "other": [
-    "vless://141d5fe2-5c0f-48e9-88aa-f90a83f262a0@142.132.227.65:34560?type=tcp&security=none#%40netmelli15-_1",
-    "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#Begzar",
-    "vless://ef1a45eb-d3d1-4b06-bd85-659aae4963f7@5.75.202.231:443?security=reality&encryption=none&pbk=VBQnrC1EwfzbxyU5CQJy5aD0oAx_skepmeq0iZyFuR4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=ba24#Begzar",
-    "vless://8c9b6c3a-9266-4a80-8f86-b9b1520009be@tun.sepantamcloud.ir:8802?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20UAE%20%28%D9%86%DB%8C%D9%85%20%D8%A8%D9%87%D8%A7%29%20-%20Ehda",
-    "vless://8c9b6c3a-9266-4a80-8f86-b9b1520009be@tun.sepantamcloud.ir:8803?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%28%D9%86%DB%8C%D9%85%20%D8%A8%D9%87%D8%A7%29%20-%20Ehda",
-    "vless://ff7274b2-6207-45b9-abe5-5e1e60e729f1@makevaslim.hulkirani.shop:6003?path=%2Fiman%3Fed%3D2048&security=none&encryption=none&type=ws#%40RIP_imanQ%2FBegzar"
-  ]
+  "other": []
 }

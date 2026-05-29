@@ -1,4 +1,4 @@
 requests
 beautifulsoup4
-pythonping
-geoip2
+aiohttp
+lxml

@@ -1,0 +1,16 @@
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.146:443?security=tls&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A9%F0%9F%87%AA
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.244:443?security=tls&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A9%F0%9F%87%AA
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.140:443?security=tls&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A9%F0%9F%87%AA
+vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?path=%2F&security=tls&encryption=none&host=jp.aniua.qzz.io&type=ws&sni=jp.aniua.qzz.io#%F0%9F%87%A9%F0%9F%87%AA
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443?security=tls&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A9%F0%9F%87%AA
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@37.49.225.189:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%B3%F0%9F%87%B1
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@37.49.225.189:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#%F0%9F%87%B3%F0%9F%87%B1
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
+vless://bd31a135-8511-421d-a6b7-45937ef59e88@95.216.209.22:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
+vless://e0b4566b-3333-4c50-9381-ba3570bee83f@95.182.83.251:2082?path=%2FOninOShop&security=none&encryption=none&host=95.182.83.251&type=ws#%F0%9F%87%B7%F0%9F%87%BA
+vmess://eyJhZGQiOiIxMzAuOTQuMTAxLjM1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA3YTYwZjE5LWI3MDctNGVlOC1hNTYzLTIxYzIzMWMxNjIxOSIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpIiwicG9ydCI6IjUxMzg3IiwicHMiOiLwn4eo8J+HsyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vless://a6bdf293-c3b0-4b8f-9a70-528874376f62@104.17.121.71:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=my.pars-cdn.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=my.pars-cdn.ir#%40Tunnelcr7
+vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel----%40VPNCUSTOMIZE&security=tls&encryption=none&host=jp.aniua.qzz.io&type=ws&sni=jp.aniua.qzz.io#Vpn_jet7
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.70:50401?path=%2F&security=none&encryption=none&type=ws#%40Tunnelcr7
+vless://34a9bd8b-e657-41ae-bc11-b0fa8393465b@193.151.135.97:443?security=none&encryption=none&headerType=none&type=tcp#AMIRCR7
+vless://d6fd2e91-e013-4a1a-a80b-71a96416854d@45.76.32.242:35541?security=none&encryption=none&headerType=none&type=tcp#%40Tunnelcr7

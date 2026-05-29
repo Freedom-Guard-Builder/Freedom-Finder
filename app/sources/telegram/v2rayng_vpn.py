@@ -1,0 +1,2 @@
+CHANNEL_NAME = "V2RayNGVPN"
+CHANNEL_URL = "https://t.me/s/V2RayNGVPN"

@@ -1,0 +1,2 @@
+CHANNEL_NAME = "i10VPN"
+CHANNEL_URL = "https://t.me/s/i10VPN"

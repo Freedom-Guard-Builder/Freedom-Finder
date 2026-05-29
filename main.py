@@ -57,11 +57,11 @@ def main():
     )
 
     export_txt(
-        "out/configs/mixed.txt",
+        "out/mixed.txt",
         mixed_configs
     )
     export_json(
-        "out/configs/mobile.json",
+        "out/mobile.json",
         {
             "MOBILE": mobile_configs
         }

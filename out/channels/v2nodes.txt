@@ -1,13 +1,3 @@
-trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=130.94.114.217#
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=/rsedgws#
-vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:80?#
-trojan://BxceQaOe@18.162.50.252:9149?allowInsecure=1&sni=t.me%252Fripaojiedian#
-trojan://BxceQaOe@16.163.106.209:41889?allowInsecure=1&sni=t.me%2Fripaojiedian#
-trojan://SoftNetConnect@83.228.230.226:42549?allowInsecure=1&sni=www.speedtest.net&alpn=h2%2Chttp/1.1%2Ch3#
-vless://b69a71ef-51dc-48c6-b3df-4c3533062606@assets.trorays.com:443?allowInsecure=0&sni=assets.trorays.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#
-vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l7.l-itx.info:7443?security=reality&encryption=none&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&type=grpc&serviceName=xyz&sni=colorlib.com#
-vless://8c158c22-ecaf-441e-8653-91f1a5a4fd15@72.56.112.226:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&security=reality&pbk=gFP8-P4r8FKkN10b0q1keHgL7jjmUOpY9qPAem_3z34&sid=5201#
-ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ==@103.136.150.192:30129#
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@108.165.236.144:2040?encryption=none&fp=chrome&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw==@77.42.33.181:1085#
 trojan://e0195c73018d597b1c2f0ea89d8676ae@35.77.34.38:53012?allowInsecure=1&sni=www.nintendogames.net#
@@ -18,3 +8,12 @@ vless://bb789aaa-c07a-47ae-987f-5adba035e8c7@65.109.219.2:110?#
 ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@46.29.163.104:24213#
 vless://6aa91885-dc17-4d70-a58b-ccc29dd71b04@186.246.19.138:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=firefox&pbk=mimJ_uInBYERt8TayjrHu5Kmq4b1ko39G6WD72SUkGw&sid=75cf&type=tcp&headerType=none#
 vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@81.90.29.53:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=%2DFQM2tUbpiBjwjgla2mwkSkFhFIKQU0FQOvRi0ZD_mY&security=reality&sid=540f5784c2481b5a&sni=mishaduck.duckdns.org&type=tcp#
+vless://8c158c22-ecaf-441e-8653-91f1a5a4fd15@72.56.112.226:40443?security=reality&encryption=none&pbk=gFP8-P4r8FKkN10b0q1keHgL7jjmUOpY9qPAem_3z34&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=5201#
+vless://967064b5-3272-431e-8dce-9519acfb94be@150.241.102.175:443?security=reality&type=tcp&packetEncoding=xudp&sni=usa.zestful.bond&fp=firefox&flow=xtls-rprx-vision&sid=823257b7b9ab9d02&pbk=KS0F6q2PTY1s6y2sH5PdrznYqprIkUBtS1masvcrJjo#
+vless://b69a71ef-51dc-48c6-b3df-4c3533062606@assets.trorays.com:443?allowInsecure=0&sni=assets.trorays.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@fin.oplatasite.ru:8443?sni=vpn.oplatasite.ru&fp=chrome&security=tls#
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@swed.oplatasite.ru:8443?sni=vpn.oplatasite.ru&fp=chrome&security=tls#
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@vpn.oplatasite.ru:8443?sni=vpn.oplatasite.ru&fp=chrome&security=tls#
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@nl.oplatasite.ru:8443?sni=vpn.oplatasite.ru&fp=chrome&security=tls#
+trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?security=tls&sni=www.game-bridge.click#
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&security=reality&sid=5be8210215&sni=parisjetaime.com&type=tcp#

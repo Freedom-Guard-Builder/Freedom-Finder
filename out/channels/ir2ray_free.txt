@@ -1,0 +1,8 @@
+trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40SAM
+vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?security=none&encryption=none&headerType=none&type=tcp#%40SAM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%40SAM
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#%40SAM
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#%F0%9F%A9%B5Channel%3A%20%40ir2ray_free
+vless://4f11a8da-96f7-48a2-f4d3-76d9182650e3@s2.zynavo.ir:2087?mode=auto&path=%2FBetForward&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=cdn.zynavo.ir&fp=chrome&type=xhttp&sni=cdn.zynavo.ir#%E2%8F%A9%EF%B8%8FBetForward%7C%F0%9F%93%8A5.00GB%7C%E2%8F%B30D
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YlJNdW9zb2NFdWNWWVFPOGlxam9aVTFlMG5RSmlUdXhLTTMxbzZhWDNzND06aU15QUNxWEdQT29sVE1FbkRrV1pVMFNvVkZ4THRISExsYWFlMitNYTFEUT0%3D@62.60.195.170:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%40ir2ray_free
+vless://ebb981c8-086f-4469-a3d2-e50f4135ed06@britain.mymarzban.com:9110?security=reality&encryption=none&pbk=jPN1rT1d60wJZL-f6YkJr6bit3ZBGabU8qT89CzXewo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=f27c6afae47825a0#%F0%9F%87%AC%F0%9F%87%A7Uk%40ir2ray_free%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84

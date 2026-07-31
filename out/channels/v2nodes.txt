@@ -1,13 +1,3 @@
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiaWQiOiJiNjVhMmQ2OS01NjM0LTQyYTItZTRiZS01NGU4YTYxNzY5MDAiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLVVTIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.224.3:8443?type=grpc&serviceName=grpc#
-vless://11113f77-b439-4911-a8dd-414d2ee36b59@pl.mifbot.pro:49000?encryption=none&fp=chrome&pbk=s3Jvf-GOBZPGuU7E5WpKvzN70NuedRrT9714cr-jdjk&security=reality&sni=git.sly.team&type=grpc#
-vless://7d6d3391-7bf8-46bf-bd2e-01e82a790017@155.117.137.201:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=d6816b10d545df54&sni=cdn2-07.yahoo.com&type=tcp#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRAcjNtcmNnMDAxMjg2ZWsyLmN5YmVydmVuYS5jb206NTAwOTk/#
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20120?allowInsecure=1&sni=hk.catxstar.com#
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.62.167:62145?#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFpUWmtaakl4T0RNPQ==@158.101.208.107:45819#
-vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.26:1447?#
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.168.93:22222?#
 vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.51:1446?#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ==@130.61.114.133:59924#
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.234.139:62145?#
@@ -18,3 +8,12 @@ vless://d8b42cd5-a149-4356-9e61-000000000000@195.21.129.117:2553?allowInsecure=1
 vless://95891abd-c399-a085-ea21-21df48ea0fa2@198.41.209.149:443?path=/ws/oxnetir-vl-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=oxnetirpx.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=oxnetirpx.kdns.fr#
 vless://74ae950f-95c6-417b-9409-a0f58be33429@195.123.216.28:443?encryption=none&fp=chrome&pbk=RRhxkmf4YgwjyNSikyomlL6Me9329CTvZbAMFWakWjE&security=reality&sid=4e6e39c4&sni=www.intel.com&type=grpc#
 vless://b9b1e7c9-4160-49b4-85a4-2f096706509a@v-de-node-03.bot-auth.com:8443?security=reality&encryption=none&pbk=dNfk0sOCzOlmE61B7ur7YzU2i08RqXIBcGVBA2Ne1Ck&headerType=&fp=chrome&spx=/&type=tcp&sni=www.oracle.com&sid=7548bc#
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apinbxs.eovay.com:39756?encryption=none&flow=xtls-rprx-vision&security=reality&sni=iosapps.itunes.apple.com&fp=ios&pbk=dDf2TcDNn3Kk8pAp4EnNC4ZUAmGkzAapRFGFe-41IEk&sid=86f6705960e3e3&type=tcp&headerType=none#
+vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?&security=tls&fp=chrome&sni=shalana.xyz&type=ws&headerType=none&host=shalana.xyz&path=%2Fshalana#
+vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtVVMiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMzIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1VUyIsImFkZCI6IjE2NS4xNDAuMjE2LjE0MiIsInBvcnQiOiI0NDMiLCJpZCI6ImI2NWEyZDY5LTU2MzQtNDJhMi1lNGJlLTU0ZThhNjE3NjkwMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IlwvTGV2aWtvQ29uZmlnIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMxMCIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22223?#
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1VUyIsImFkZCI6IjE2NS4xNDAuMjE2LjE0MiIsInBvcnQiOiI0NDMiLCJpZCI6ImI2NWEyZDY5LTU2MzQtNDJhMi1lNGJlLTU0ZThhNjE3NjkwMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IlwvTGV2aWtvQ29uZmlnIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVM3Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+trojan://BxceQaOe@16.162.122.119:38961?allowInsecure=1&sni=t.me%2Fripaojiedian#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ==@129.151.75.220:61312#
+trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?security=tls#

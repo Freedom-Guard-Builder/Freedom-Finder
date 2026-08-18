@@ -100,10 +100,11 @@ def main():
             all_configs.extend(
                 configs
             )
+
             all_proxies.extend(
                 proxies
             )
-            
+
             print(
                 f"[✓] {channel['name']} -> {len(configs)}"
             )
@@ -132,7 +133,7 @@ def main():
     )
 
     proxies = extract_proxies_tg(
-        all_configs
+        all_proxies
     )
 
     export_txt(

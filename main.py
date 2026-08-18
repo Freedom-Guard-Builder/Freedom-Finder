@@ -48,6 +48,7 @@ def main():
     channels = load_channels()
 
     all_configs = []
+    all_proxies = []
 
     for channel in channels:
 
@@ -99,7 +100,10 @@ def main():
             all_configs.extend(
                 configs
             )
-
+            all_proxies.extend(
+                proxies
+            )
+            
             print(
                 f"[✓] {channel['name']} -> {len(configs)}"
             )
@@ -127,6 +131,10 @@ def main():
         all_configs
     )
 
+    proxies = extract_proxies_tg(
+        all_configs
+    )
+
     export_txt(
         "out/configs/all.txt",
         all_configs
@@ -135,6 +143,11 @@ def main():
     export_txt(
         "out/configs/mixed.txt",
         mixed_configs
+    )
+
+    export_txt(
+        "out/configs/proxies.txt",
+        proxies
     )
 
     export_txt(

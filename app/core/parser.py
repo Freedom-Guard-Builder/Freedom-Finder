@@ -5,6 +5,8 @@ PATTERN = re.compile(
     re.IGNORECASE
 )
 
+TG_PATTERN = re.compile(r'(?:https?://)?t\.me/[^\s)]+', re.IGNORECASE)
+
 def extract_configs(texts):
     configs = []
 
@@ -17,8 +19,7 @@ def extract_proxies_tg(texts):
     proxies = []
 
     for text in texts:
-        # if text contains proxy link
-        if "https://t.me/proxy?" in text:
-            proxies.append(text)
+        # get proxies tg from text
+        proxies.extend(TG_PATTERN.findall(text))
         
     return proxies

@@ -12,3 +12,13 @@ def extract_configs(texts):
         configs.extend(PATTERN.findall(text))
 
     return configs
+
+def extract_proxies_tg(texts):
+    proxies = []
+
+    for text in texts:
+        # if text contains proxy link
+        if "https://t.me/proxy?" in text:
+            proxies.append(text)
+        
+    return proxies

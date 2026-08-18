@@ -4,7 +4,7 @@ from app.services.channel_service import load_channels
 from app.scrapers.telegram import scrape_channel
 from app.scrapers.raw import fetch_raw_configs
 
-from app.core.parser import extract_configs
+from app.core.parser import extract_configs, extract_proxies_tg
 from app.core.filters import (
     unique_configs,
     is_valid_config
@@ -67,6 +67,10 @@ def main():
                     posts
                 )
 
+                proxies = extract_proxies_tg(
+                    posts
+                )
+
             else:
 
                 configs = fetch_raw_configs(
@@ -85,6 +89,11 @@ def main():
             export_txt(
                 f"out/channels/{channel['name']}.txt",
                 configs
+            )
+
+            export_txt(
+                f"out/channels/{channel['name']}_proxy.txt",
+                proxies
             )
 
             all_configs.extend(

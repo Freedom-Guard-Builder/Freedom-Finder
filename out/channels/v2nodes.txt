@@ -1,9 +1,3 @@
-vless://73796e63-0000-4000-8000-000000000000@188.114.97.6:8080?type=ws&host=wireguard.ahmad-kh5716.workers.dev&path=%2Fsync#
-vless://8a36be1d-7c78-4885-8a1f-bedf5ba7db1c@188.114.97.6:8080?encryption=none&security=none&type=ws&host=lucky-lab-ac6d.caveyi8071.workers.dev&path=/rn50nmm9l1dey73c?ed=2560&fm={#
-vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@188.114.97.6:8080?encryption=none&security=none&type=ws&host=nautica-cff.kloningstrife002.workers.dev&path=/138.2.74.219-28616&fm={#
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?&type=ws&headerType=none&path=%2F8f2690e2d016#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUNkljVXBjVngwWTg1RHhTVGdYZTRB@86.38.182.226:97#
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.74.87:22222?#
@@ -18,3 +12,9 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.170.215:22223?#
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.164:443?sni=ir.failspace.top&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?type=grpc&serviceName=vless#
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@en-new.moriarty-web.com:443?sni=en-new.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#
+vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=29e8dcd2b37aaa7f&pbk=7Y6Xb5Ql_03K25x8yKUSOKI2JTOMyv2nyCcFza90uxk#
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.145.224:22222?#
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.172.122:22223?#
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-2.moritech.net:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria.moritech.net:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#
+vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect6.nyxserver.ir:8446?alpn=h2%2Chttp/1.1&fp=chrome&security=tls#

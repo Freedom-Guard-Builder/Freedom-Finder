@@ -1,5 +1,3 @@
-trojan://BxceQaOe@100.42.228.109:443?allowInsecure=1&sni=t.me%2Fripaojiedian#
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0=@141.95.29.163:2083#
 trojan://humanity@104.21.33.59:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SUxieTEyZHBJYlJDK0p5R3kxV2V2Znc1aThWTDI3ODZVUm1tbFgyNUJzUT0=@130.61.179.188:59924#
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SXFHQno1UXFjT0NtU0xGcTNCeXozMG56K2VhZmtKOThaeGxmZmh2YzQ4QT0=@130.61.231.219:59924#
@@ -18,3 +16,5 @@ vless://ed91e79c-f6bf-4fba-8cc0-6d45acaec22b@aldebaran.yokkastars.com:40443?encr
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-ded.failspace.top:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#
 vless://c12db015-a63c-43e5-a744-6398a90373b5@basalam.horqen.ir:21289?#
 vless://97ecaad4-452c-45ec-b591-d68d3308aad4@plan.api3-max.ru:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=plan.api3-max.ru#
+vless://8b84bbec-9a55-47c2-ac2e-03c41065e572@78.141.221.126:25585?#
+vless://3a22ca95-bd99-00e9-a799-f8f73930ea05@131.123.25.3:443?&security=reality&flow=xtls-rprx-vision&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&fp=qq&sni=fr.convert-flow.net&type=tcp&headerType=none&host=fr.convert-flow.net&path=%2F#

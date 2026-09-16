@@ -1,6 +1,3 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.170.215:22223?#
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.164:443?sni=ir.failspace.top&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?type=grpc&serviceName=vless#
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@en-new.moriarty-web.com:443?sni=en-new.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#
 vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=29e8dcd2b37aaa7f&pbk=7Y6Xb5Ql_03K25x8yKUSOKI2JTOMyv2nyCcFza90uxk#
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.145.224:22222?#
@@ -18,3 +15,6 @@ vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@51.194.251.114:61592?&security=real
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dlFmRUM2SVN6MGhJUi9jN3pMYmZhNVN4ZmFDQ21jR1B6ZXRJeklraEx5az0=@130.61.34.252:59924#
 vless://660174a2-d32d-4521-840d-d1853bfc80b8@83.147.216.223:4433?path=/@Marisa_kristi&security=tls&encryption=none&insecure=0&host=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev#
 vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@51.194.251.172:31068?&security=reality&flow=xtls-rprx-vision&pbk=jnu0rNHECTe_v7H9Fmgg0iUSepHz4QQQRPW0XpX5URs&sid=1359c9bf9f7442e5&fp=chrome&sni=snapshot.apple-mapkit.com&type=tcp&headerType=none&host=snapshot.apple-mapkit.com&path=%2F#
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.181:443?sni=pl-dedic-2.failspace.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.172:443?sni=pl-dedic-3.failspace.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#
+vless://32721515-985b-4773-9e70-5d2e1b88a060@212.16.92.112:443?&security=reality&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=jobinvest.ru&type=tcp&headerType=none&host=jobinvest.ru&path=%2F#

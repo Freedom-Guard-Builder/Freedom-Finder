@@ -1,5 +1,3 @@
-vless://439628ee-ef8e-4a3e-ba0f-091b7376dcb8@googol.wookshop.ir:17915?fp=chrome&security=tls#
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=firefox&sid=a73f0410d728c823&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k#
 vless://efe19c5a-0ea1-4666-8a4c-4a33f4670775@104.21.70.22:443?path=/raccoonwsvless&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=brightlux.forum&type=ws&allowInsecure=0&sni=brightlux.forum#
 vless://b8254d35-1cb0-4b74-8f7f-d2bc985196a0@laga18.api3-max.ru:443?sni=laga18.api3-max.ru&flow=xtls-rprx-vision&fp=firefox&security=tls#
 ss://YWVzLTEyOC1nY206NDliMDdiOTgtNmI3Ni00YzcwLWIwNDYtMzliZTg4ZTc1YWJm@ruot.ayucloudservices.nl:40022#
@@ -18,3 +16,5 @@ vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?sni=co-pl.speedt
 vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@152.53.186.202:443?sni=deinfo.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#
 vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@87.121.47.183:443?sni=1cdinfo.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#
 vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@152.53.185.244:443?sni=demethod.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56656?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn-dynmedia-1.microsoft.com&fp=ios&pbk=QFM3jTzb5n-E9L2cfFo6GHqioGmIkjmG60l8wXA4IXc&sid=aae6d935&type=tcp&headerType=none#
+vless://1a11d3a8-f327-4f97-81b2-f776c138dec7@45.128.60.127:443?security=reality&encryption=none&pbk=kb93iSFmgqH_hIEAL15LZdrB9E-QfGFYG1mspAYJUzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nokia.com&sid=557d83da1a36996f#

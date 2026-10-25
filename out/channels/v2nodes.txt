@@ -1,12 +1,3 @@
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@64.188.66.181:443?&security=reality&flow=xtls-rprx-vision&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&sid=2c9a2790ad5900b2&fp=chrome&sni=ge-s-1.pythonmakemigreat.wiki&type=tcp&headerType=none&host=ge-s-1.pythonmakemigreat.wiki&path=%2F#
-trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=1&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#
-vless://6338c01a-310e-42c3-bf4f-2a20e161054b@de3.brightmetric.trade:443?sni=de3.brightmetric.trade&alpn=http/1.1&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#
-vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-ss-64.ecom-ai-search.com:443?security=reality&encryption=none&pbk=xXMV-UbVMpP75hZoXS_QSaj_DK1O58mrPIrreudQ71o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=assets-ss-64.ecom-ai-search.com&sid=294cd0660fde9027#
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@sw.golangwikito.cfd:443?security=reality&sni=sw.golangwikito.cfd&fp=chrome&pbk=Kb8SsVPprs46BJSUNp5JvWLI-TFEiHmlBOXLQd37Glg&sid=a1037b25dcef6aa7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?allowInsecure=0&sni=it1.dedushka.top#
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47691?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&security=reality&sid=2905326a&sni=m.media-amazon.com&type=tcp#
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top&alpn=http/1.1#
@@ -17,3 +8,13 @@ trojan://28c4a59d-c2a0-4d6c-ba7d-db6a354990de@tjhg.m2k699.com:24999?allowInsecur
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=random&security=tls#
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjE1OC4xNjAuMTgwLjE2NSIsInBvcnQiOjI0MjEyLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiJjNThjMTIwNS1iMzA4LTQxNmYtODUwMy1jMDQ1NTdhYmY5M2QiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://a500be68-4ff6-433b-9968-472be69fab14@netherlands02.azotvpn.xyz:443?security=reality&type=tcp&packetEncoding=xudp&sni=netherlands02.azotvpn.xyz&fp=chrome&flow=xtls-rprx-vision&sid=fc70174007a393b4&pbk=ui9MLRYZIz7S6_1E4fZgoamwTypfQAMwJ1olxGcWomE&encryption=none#
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjtw.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#
+vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@fin3.himoy.space:443?security=reality&encryption=none&pbk=2aGY0cy7IEqurjq5XBPv9gaZHhuod0RDBJUToyTSrws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fin3.himoy.space&sid=2764053a11bdeec7#
+vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?security=reality&encryption=none&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=7f1e29593aa94ad1#
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?allowInsecure=1&sni=t.me/FuckTheWall#
+trojan://7343dd3d00b74cd2@uis175.pacemakere.com:20005?allowInsecure=1#
+trojan://ee844c5ef7504bcf@jus134.pacemakere.com:20017?allowInsecure=1&sni=jus134.pacemakere.com#
+vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@pl1.himoy.space:443?&security=reality&flow=xtls-rprx-vision&pbk=1D_oMYRytcccH8J2SiM9o0bjmWlDND9CXWLL8LwDvE8&sid=e2201d4d8b942ccc&fp=firefox&sni=pl1.himoy.space&type=tcp&headerType=none&host=pl1.himoy.space&path=%2F#
+vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@gcach6lm.himoy.space:443?security=reality&encryption=none&pbk=4tMWqgTFL_uavocMXmgIWvB0rZvFQCOYQQIDZlJmaVQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gcach6lm.himoy.space&sid=fe5a2e4bb97c5331#
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@46.17.43.227:18443#
+vless://605dea9b-b485-45c9-af9b-cc2b0195023c@91.242.228.29:443?&security=reality&flow=xtls-rprx-vision&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d&fp=firefox&sni=se1.mycloud1.org&type=tcp&headerType=none&host=se1.mycloud1.org&path=%2F#
